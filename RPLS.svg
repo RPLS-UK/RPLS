@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#abe0fb"/>
+      <stop offset="0.485" stop-color="#6fc5ef"/>
+      <stop offset="1" stop-color="#2faae8"/>
+    </linearGradient>
+    <clipPath id="clip-RPLS">
+      <rect width="512" height="512"/>
+    </clipPath>
+  </defs>
+  <g id="RPLS" clip-path="url(#clip-RPLS)">
+    <g id="Group_1" data-name="Group 1" transform="translate(-10 -32.508)">
+      <path id="Path_1" data-name="Path 1" d="M85.156,84.358H290.988v84.9H265.182V116.118H112.641V290.8H265.182V242.549h25.806v78.18H85.156Z" transform="translate(51.019 84.604)" fill="url(#linear-gradient)"/>
+      <path id="Path_2" data-name="Path 2" d="M290.988,84.358H85.156v84.9h25.806V116.118H263.5V290.8H110.962V242.549H85.156v78.18H290.988Z" transform="translate(104.218 -14.623)" fill="url(#linear-gradient)"/>
+      <text id="R_P_L_S" data-name="R P L S" transform="translate(136 390.282)" fill="#666" font-size="90" font-family="CrimsonText-Regular, Crimson Text"><tspan x="0" y="85">R P L S</tspan></text>
+    </g>
+  </g>
+</svg>
